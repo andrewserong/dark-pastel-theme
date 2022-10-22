@@ -62,7 +62,6 @@ if ( ! function_exists( 'darkpastel_register_block_styles' ) ) {
 			array(
 				'name'         => 'diamond',
 				'label'        => __( 'Diamond', 'darkpastel' ),
-				'inline_style' => ".wp-block-separator.is-style-diamond { width: 125px !important; height: 125px !important; border: none !important; clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%); }",
 			)
 		);		
 	}
