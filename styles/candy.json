@@ -1,6 +1,6 @@
 {
 	"version": 2,
-	"title": "Red",
+	"title": "Candy",
 	"settings": {
 		"color": {
 			"palette": [
@@ -11,12 +11,12 @@
 				},
 				{
 					"slug": "background",
-					"color": "#ffffff",
+					"color": "#fcebf1",
 					"name": "Background"
 				},
 				{
 					"slug": "primary",
-					"color": "#816771",
+					"color": "#bb134e",
 					"name": "Primary"
 				},
 				{
