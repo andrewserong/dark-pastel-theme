@@ -54,8 +54,7 @@ a:active {
 
 .wp-block-navigation .wp-block-navigation-item a:hover,
 .wp-block-navigation .wp-block-navigation-item a:focus {
-	text-decoration: underline;
-	text-decoration-style: solid;
+	opacity: 0.8;
 }
 
 /*
@@ -84,7 +83,7 @@ a:active {
 .wp-block-search__button:hover,
 .wp-block-file .wp-block-file__button:hover,
 .wp-block-button__link:hover {
-	opacity: 0.90;
+	opacity: 0.8;
 }
 
 /*
@@ -166,8 +165,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-post-date a:focus,
 .wp-block-site-title a:focus,
 .wp-block-post-title a:focus {
-	text-decoration: underline;
-	text-decoration-style: solid;
+	opacity: 0.8;
 }
 
 .wp-block-separator.is-style-star-ornament {

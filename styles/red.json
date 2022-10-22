@@ -1,6 +1,6 @@
 {
 	"version": 2,
-	"title": "Blue",
+	"title": "Red",
 	"settings": {
 		"color": {
 			"palette": [
@@ -16,7 +16,7 @@
 				},
 				{
 					"slug": "primary",
-					"color": "#677481",
+					"color": "#816771",
 					"name": "Primary"
 				},
 				{

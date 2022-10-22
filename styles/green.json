@@ -1,6 +1,6 @@
 {
 	"version": 2,
-	"title": "Blue",
+	"title": "Green",    
 	"settings": {
 		"color": {
 			"palette": [
@@ -16,17 +16,17 @@
 				},
 				{
 					"slug": "primary",
-					"color": "#677481",
+					"color": "#678173",
 					"name": "Primary"
 				},
 				{
 					"slug": "secondary",
-					"color": "#3556A5",
+					"color": "#ffe2c7",
 					"name": "Secondary"
 				},
 				{
 					"slug": "tertiary",
-					"color": "#374C80",
+					"color": "#F6F6F6",
 					"name": "Tertiary"
 				}
 			]
