@@ -173,9 +173,33 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-separator.is-style-double-ornament {
 	width: 442px !important;
 	height: 46px !important;
-	max-width: 100% !important;
+	max-width: 75vw !important;
 	-webkit-mask-image: url(./assets/images/separator-ornament-double-optimized.svg);
 	mask-image: url(./assets/images/separator-ornament-double-optimized.svg);
+	-webkit-mask-size: 100%;
+	mask-size: 100%;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+}
+
+.wp-block-separator.is-style-star-ornament {
+	width: 92px !important;
+	height: 60px !important;
+	max-width: 50vw !important;
+	-webkit-mask-image: url(./assets/images/separator-ornament-star-optimized.svg);
+	mask-image: url(./assets/images/separator-ornament-star-optimized.svg);
+	-webkit-mask-size: 100%;
+	mask-size: 100%;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+}
+
+.wp-block-separator.is-style-double-ornament-inverted {
+	width: 442px !important;
+	height: 46px !important;
+	max-width: 75vw !important;
+	-webkit-mask-image: url(./assets/images/separator-ornament-double-inverted-optimized.svg);
+	mask-image: url(./assets/images/separator-ornament-double-inverted-optimized.svg);
 	-webkit-mask-size: 100%;
 	mask-size: 100%;
 	-webkit-mask-repeat: no-repeat;
@@ -192,4 +216,36 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	mask-size: 100%;
 	-webkit-mask-repeat: no-repeat;
 	mask-repeat: no-repeat;
+}
+
+.wp-block-separator.is-style-cutout-circle-up {
+	width: 282px !important;
+	height: 50px !important;
+	max-width: 50vw !important;
+	-webkit-mask-image: url(./assets/images/cutout-circle-up.svg);
+	mask-image: url(./assets/images/cutout-circle-up.svg);
+	-webkit-mask-size: 100%;
+	mask-size: 100%;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	-webkit-mask-position: top;
+	mask-position: top;
+	position: relative;
+	top: -1px;
+}
+
+.wp-block-separator.is-style-cutout-circle-down {
+	width: 282px !important;
+	height: 50px !important;
+	max-width: 50vw !important;
+	-webkit-mask-image: url(./assets/images/cutout-circle-down.svg);
+	mask-image: url(./assets/images/cutout-circle-down.svg);
+	-webkit-mask-size: 100%;
+	mask-size: 100%;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+	-webkit-mask-position: bottom;
+	mask-position: bottom;
+	position: relative;
+	bottom: -1px;
 }
