@@ -254,3 +254,13 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	border: none !important;
 	clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
+
+:where( .wp-block-separator.is-style-star-ornament ),
+:where( .wp-block-separator.is-style-double-ornament ),
+:where( .wp-block-separator.is-style-double-ornament-inverted ),
+:where( .wp-block-separator.is-style-narrow-ornament ),
+:where( .wp-block-separator.is-style-cutout-circle-up ),
+:where( .wp-block-separator.is-style-cutout-circle-down ),
+:where( .wp-block-separator.is-style-diamond ) {
+	background: black;
+}
