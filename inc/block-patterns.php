@@ -2,13 +2,13 @@
 /**
  * Dark Pastel: Block Patterns
  *
- * @since Dark Pastel 1.0
+ * @since Dark Pastel 0.1
  */
 
 /**
  * Registers block patterns and categories.
  *
- * @since Dark Pastel 1.0
+ * @since Dark Pastel 0.1
  *
  * @return void
  */
@@ -18,13 +18,13 @@ function darkpastel_register_block_patterns() {
 		'footer'   => array( 'label' => __( 'Footers', 'darkpastel' ) ),
 		'header'   => array( 'label' => __( 'Headers', 'darkpastel' ) ),
 		'query'    => array( 'label' => __( 'Query', 'darkpastel' ) ),
-		'pages'    => array( 'label' => __( 'Pages', 'darkpastel' ) ),
+		'darkpastel'    => array( 'label' => __( 'Dark Pastel', 'darkpastel' ) ),
 	);
 
 	/**
 	 * Filters the theme block pattern categories.
 	 *
-	 * @since Dark Pastel 1.0
+	 * @since Dark Pastel 0.1
 	 *
 	 * @param array[] $block_pattern_categories {
 	 *     An associative array of block pattern categories, keyed by category name.
@@ -117,12 +117,14 @@ function darkpastel_register_block_patterns() {
 		'query-image-grid',
 		'query-large-titles',
 		'query-irregular-grid',
+		'dark-pastel-gallery-frame',
+		'dark-pastel-image-frame',
 	);
 
 	/**
 	 * Filters the theme block patterns.
 	 *
-	 * @since Twenty Twenty-Two 1.0
+	 * @since Dark Pastel 0.1
 	 *
 	 * @param array $block_patterns List of block patterns by name.
 	 */

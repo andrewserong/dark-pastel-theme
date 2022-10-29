@@ -179,7 +179,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-separator.is-style-star-ornament {
 	width: 92px !important;
 	height: 60px !important;
-	max-width: 50vw !important;
+	max-width: min(100%, 50vw) !important;
 	-webkit-mask-image: url(./assets/images/separator-ornament-star-optimized.svg);
 	mask-image: url(./assets/images/separator-ornament-star-optimized.svg);
 	-webkit-mask-size: 100%;
@@ -191,7 +191,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-separator.is-style-double-ornament {
 	width: 332px !important;
 	height: 35px !important;
-	max-width: 75vw !important;
+	max-width: min(100%, 75vw) !important;
 	-webkit-mask-image: url(./assets/images/separator-ornament-double-optimized.svg);
 	mask-image: url(./assets/images/separator-ornament-double-optimized.svg);
 	-webkit-mask-size: 100%;
@@ -203,7 +203,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-separator.is-style-double-ornament-inverted {
 	width: 332px !important;
 	height: 35px !important;
-	max-width: 75vw !important;
+	max-width: min(100%, 75vw) !important;
 	-webkit-mask-image: url(./assets/images/separator-ornament-double-inverted-optimized.svg);
 	mask-image: url(./assets/images/separator-ornament-double-inverted-optimized.svg);
 	-webkit-mask-size: 100%;
@@ -227,7 +227,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-separator.is-style-cutout-circle-up {
 	width: 282px !important;
 	height: 50px !important;
-	max-width: 50vw !important;
+	max-width: min(50%, 50vw) !important;
 	-webkit-mask-image: url(./assets/images/cutout-circle-up.svg);
 	mask-image: url(./assets/images/cutout-circle-up.svg);
 	-webkit-mask-size: 100%;
@@ -243,7 +243,7 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 .wp-block-separator.is-style-cutout-circle-down {
 	width: 282px !important;
 	height: 50px !important;
-	max-width: 50vw !important;
+	max-width: min(50%, 50vw) !important;
 	-webkit-mask-image: url(./assets/images/cutout-circle-down.svg);
 	mask-image: url(./assets/images/cutout-circle-down.svg);
 	-webkit-mask-size: 100%;
