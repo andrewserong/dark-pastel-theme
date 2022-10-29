@@ -168,6 +168,14 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	opacity: 0.8;
 }
 
+.blocks-gallery-caption {
+	color: inherit;
+}
+
+/*
+ * Dark Pastel block styles.
+ */
+
 .wp-block-separator.is-style-star-ornament {
 	width: 92px !important;
 	height: 60px !important;
