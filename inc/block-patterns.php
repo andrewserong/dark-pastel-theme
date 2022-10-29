@@ -95,7 +95,7 @@ function darkpastel_register_block_patterns() {
 		'ornament-small-dark',
 		'ornament-small-white',
 		'ornament-square-dark',
-		'ornament-square-white',				
+		'ornament-square-white',
 		'page-about-media-left',
 		'page-about-simple-dark',
 		'page-about-media-right',
@@ -119,6 +119,8 @@ function darkpastel_register_block_patterns() {
 		'query-irregular-grid',
 		'dark-pastel-gallery-frame',
 		'dark-pastel-image-frame',
+		'dark-pastel-newsletter-banner',
+		'dark-pastel-two-column-frame',
 	);
 
 	/**
