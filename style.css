@@ -180,8 +180,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	width: 92px !important;
 	height: 60px !important;
 	max-width: min(100%, 50vw) !important;
-	-webkit-mask-image: url(./assets/images/separator-ornament-star-optimized.svg);
-	mask-image: url(./assets/images/separator-ornament-star-optimized.svg);
+	-webkit-mask-image: url(./assets/images/separator-ornament-star.svg);
+	mask-image: url(./assets/images/separator-ornament-star.svg);
 	-webkit-mask-size: 100%;
 	mask-size: 100%;
 	-webkit-mask-repeat: no-repeat;
@@ -192,8 +192,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	width: 332px !important;
 	height: 35px !important;
 	max-width: min(100%, 75vw) !important;
-	-webkit-mask-image: url(./assets/images/separator-ornament-double-optimized.svg);
-	mask-image: url(./assets/images/separator-ornament-double-optimized.svg);
+	-webkit-mask-image: url(./assets/images/separator-ornament-double.svg);
+	mask-image: url(./assets/images/separator-ornament-double.svg);
 	-webkit-mask-size: 100%;
 	mask-size: 100%;
 	-webkit-mask-repeat: no-repeat;
@@ -204,8 +204,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	width: 332px !important;
 	height: 35px !important;
 	max-width: min(100%, 75vw) !important;
-	-webkit-mask-image: url(./assets/images/separator-ornament-double-inverted-optimized.svg);
-	mask-image: url(./assets/images/separator-ornament-double-inverted-optimized.svg);
+	-webkit-mask-image: url(./assets/images/separator-ornament-double-inverted.svg);
+	mask-image: url(./assets/images/separator-ornament-double-inverted.svg);
 	-webkit-mask-size: 100%;
 	mask-size: 100%;
 	-webkit-mask-repeat: no-repeat;
@@ -216,8 +216,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	width: 166px !important;
 	height: 35px !important;
 	max-width: min(100%, 75vw) !important;
-	-webkit-mask-image: url(./assets/images/separator-ornament-left-optimized.svg);
-	mask-image: url(./assets/images/separator-ornament-left-optimized.svg);
+	-webkit-mask-image: url(./assets/images/separator-ornament-left.svg);
+	mask-image: url(./assets/images/separator-ornament-left.svg);
 	-webkit-mask-size: 100%;
 	mask-size: 100%;
 	-webkit-mask-repeat: no-repeat;
@@ -228,8 +228,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	width: 166px !important;
 	height: 35px !important;
 	max-width: min(100%, 75vw) !important;
-	-webkit-mask-image: url(./assets/images/separator-ornament-right-optimized.svg);
-	mask-image: url(./assets/images/separator-ornament-right-optimized.svg);
+	-webkit-mask-image: url(./assets/images/separator-ornament-right.svg);
+	mask-image: url(./assets/images/separator-ornament-right.svg);
 	-webkit-mask-size: 100%;
 	mask-size: 100%;
 	-webkit-mask-repeat: no-repeat;
@@ -240,8 +240,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	width: 100px !important;
 	height: 38px !important;
 	max-width: 100% !important;
-	-webkit-mask-image: url(./assets/images/separator-ornament-narrow-optimized.svg);
-	mask-image: url(./assets/images/separator-ornament-narrow-optimized.svg);
+	-webkit-mask-image: url(./assets/images/separator-ornament-narrow.svg);
+	mask-image: url(./assets/images/separator-ornament-narrow.svg);
 	-webkit-mask-size: 100%;
 	mask-size: 100%;
 	-webkit-mask-repeat: no-repeat;
