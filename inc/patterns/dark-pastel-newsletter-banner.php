@@ -11,7 +11,13 @@ return array(
 					<!-- /wp:separator -->
 
 					<!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"backgroundColor":"primary","textColor":"background","layout":{"type":"constrained"}} -->
-					<div class="wp-block-group has-background-color has-primary-background-color has-text-color has-background" style="margin-top:0"><!-- wp:heading {"textAlign":"center"} -->
+					<div class="wp-block-group has-background-color has-primary-background-color has-text-color has-background" style="margin-top:0">
+
+					<!-- wp:spacer {"height":"1rem"} -->
+					<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
+					<!-- /wp:spacer -->
+
+					<!-- wp:heading {"textAlign":"center"} -->
 					<h2 class="has-text-align-center">' . __( 'Sign up to our newsletter', 'darkpastel' ) . '</h2>
 					<!-- /wp:heading -->
 

@@ -1,6 +1,6 @@
 <?php
 /**
- * Two-column frame banner block pattern
+ * Two-column frame block pattern
  */
 return array(
 	'title'      => __( 'Two-column frame', 'darkpastel' ),

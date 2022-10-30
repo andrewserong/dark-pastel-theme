@@ -28,18 +28,26 @@ if ( ! function_exists( 'darkpastel_register_block_styles' ) ) {
 		register_block_style(
 			'core/separator',
 			array(
-				'name'         => 'star-ornament',
-				'label'        => __( 'Star Ornament', 'darkpastel' ),
+				'name'         => 'ornament-left',
+				'label'        => __( 'Ornament (left)', 'darkpastel' ),
 			)
-		);		
+		);
 
 		register_block_style(
 			'core/separator',
 			array(
-				'name'         => 'double-ornament-inverted',
-				'label'        => __( 'Double Ornament (inverted)', 'darkpastel' ),
+				'name'         => 'ornament-right',
+				'label'        => __( 'Ornament (right)', 'darkpastel' ),
 			)
-		);		
+		);
+
+		register_block_style(
+			'core/separator',
+			array(
+				'name'         => 'star-ornament',
+				'label'        => __( 'Star Ornament', 'darkpastel' ),
+			)
+		);
 
 		register_block_style(
 			'core/separator',
@@ -63,7 +71,7 @@ if ( ! function_exists( 'darkpastel_register_block_styles' ) ) {
 				'name'         => 'diamond',
 				'label'        => __( 'Diamond', 'darkpastel' ),
 			)
-		);		
+		);
 	}
 }
 

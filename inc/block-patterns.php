@@ -17,8 +17,9 @@ function darkpastel_register_block_patterns() {
 		'featured' => array( 'label' => __( 'Featured', 'darkpastel' ) ),
 		'footer'   => array( 'label' => __( 'Footers', 'darkpastel' ) ),
 		'header'   => array( 'label' => __( 'Headers', 'darkpastel' ) ),
+		'pages'   => array( 'label' => __( 'Pages', 'darkpastel' ) ),
 		'query'    => array( 'label' => __( 'Query', 'darkpastel' ) ),
-		'darkpastel'    => array( 'label' => __( 'Dark Pastel', 'darkpastel' ) ),
+		'darkpastel' => array( 'label' => __( 'Dark Pastel', 'darkpastel' ) ),
 	);
 
 	/**
@@ -118,9 +119,12 @@ function darkpastel_register_block_patterns() {
 		'query-large-titles',
 		'query-irregular-grid',
 		'dark-pastel-gallery-frame',
+		'dark-pastel-gallery-rounded-frame',
 		'dark-pastel-image-frame',
+		'dark-pastel-image-rounded-frame',
 		'dark-pastel-newsletter-banner',
 		'dark-pastel-two-column-frame',
+		'dark-pastel-three-columns',
 	);
 
 	/**

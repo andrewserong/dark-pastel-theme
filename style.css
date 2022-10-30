@@ -212,6 +212,30 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 	mask-repeat: no-repeat;
 }
 
+.wp-block-separator.is-style-ornament-left {
+	width: 166px !important;
+	height: 35px !important;
+	max-width: min(100%, 75vw) !important;
+	-webkit-mask-image: url(./assets/images/separator-ornament-left-optimized.svg);
+	mask-image: url(./assets/images/separator-ornament-left-optimized.svg);
+	-webkit-mask-size: 100%;
+	mask-size: 100%;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+}
+
+.wp-block-separator.is-style-ornament-right {
+	width: 166px !important;
+	height: 35px !important;
+	max-width: min(100%, 75vw) !important;
+	-webkit-mask-image: url(./assets/images/separator-ornament-right-optimized.svg);
+	mask-image: url(./assets/images/separator-ornament-right-optimized.svg);
+	-webkit-mask-size: 100%;
+	mask-size: 100%;
+	-webkit-mask-repeat: no-repeat;
+	mask-repeat: no-repeat;
+}
+
 .wp-block-separator.is-style-narrow-ornament {
 	width: 100px !important;
 	height: 38px !important;
@@ -266,6 +290,8 @@ body > .is-root-container > .wp-block-template-part > .wp-block-cover,
 :where( .wp-block-separator.is-style-star-ornament ),
 :where( .wp-block-separator.is-style-double-ornament ),
 :where( .wp-block-separator.is-style-double-ornament-inverted ),
+:where( .wp-block-separator.is-style-ornament-left ),
+:where( .wp-block-separator.is-style-ornament-right ),
 :where( .wp-block-separator.is-style-narrow-ornament ),
 :where( .wp-block-separator.is-style-cutout-circle-up ),
 :where( .wp-block-separator.is-style-cutout-circle-down ),
