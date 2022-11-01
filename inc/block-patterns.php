@@ -91,12 +91,6 @@ function darkpastel_register_block_patterns() {
 		'hidden-404',
 		'hidden-bird',
 		'hidden-heading-and-bird',
-		'ornament-large-dark',
-		'ornament-large-white',
-		'ornament-small-dark',
-		'ornament-small-white',
-		'ornament-square-dark',
-		'ornament-square-white',
 		'page-about-media-left',
 		'page-about-simple-dark',
 		'page-about-media-right',
@@ -125,6 +119,9 @@ function darkpastel_register_block_patterns() {
 		'dark-pastel-newsletter-banner',
 		'dark-pastel-two-column-frame',
 		'dark-pastel-three-columns',
+		'dark-pastel-query-frame-tiles',
+		'dark-pastel-query-tiled-title-date',
+		'dark-pastel-query-stacked-title-date',
 	);
 
 	/**
