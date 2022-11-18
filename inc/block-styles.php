@@ -28,6 +28,14 @@ if ( ! function_exists( 'darkpastel_register_block_styles' ) ) {
 		register_block_style(
 			'core/separator',
 			array(
+				'name'         => 'double-ornament-inverted',
+				'label'        => __( 'Double Ornament (inverted)', 'darkpastel' ),
+			)
+		);
+
+		register_block_style(
+			'core/separator',
+			array(
 				'name'         => 'ornament-left',
 				'label'        => __( 'Ornament (left)', 'darkpastel' ),
 			)
