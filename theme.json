@@ -287,6 +287,12 @@
 					"width": "1px"
 				}
 			},
+			"core/search": {
+				"typography": {
+					"fontFamily": "var:preset|font-family|lora",
+					"fontSize": "var:preset|font-size|medium"
+				}
+			},
 			"core/site-title": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
