@@ -161,11 +161,6 @@
 				"small": "max(1.25rem, 5vw)"
 			},
 			"typography": {
-				"font-size": {
-					"colossal": "clamp(3.25rem, 8vw, 6.25rem)",
-					"gigantic": "clamp(2.75rem, 6vw, 3.25rem)",
-					"huge": "clamp(2.25rem, 4vw, 2.75rem)"
-				},
 				"line-height": {
 					"normal": 1.5,
 					"small": 1.25,
@@ -277,7 +272,7 @@
 			"core/query-title": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
-					"fontSize": "var(--wp--custom--typography--font-size--gigantic)",
+					"fontSize": "var:preset|font-size|x-large",
 					"fontWeight": "300",
 					"lineHeight": "var(--wp--custom--typography--line-height--small)"
 				}
