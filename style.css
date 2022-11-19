@@ -22,6 +22,10 @@ Twenty Twenty-Two WordPress Theme, (C) 2021 WordPress.org
 Twenty Twenty-Two is distributed under the terms of the GNU GPL.
 */
 
+.wp-block-post-date.has-medium-font-size time {
+	white-space: nowrap;
+}
+
 .wp-block-post-date a,
 .wp-block-site-title a,
 .wp-block-post-title a {
