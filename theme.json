@@ -159,7 +159,14 @@
 				"rem",
 				"vh",
 				"vw"
-			]
+			],
+			"spacingScale": {
+				"operator": "+",
+				"increment": 0.25,
+				"steps": 7,
+				"mediumStep": 1,
+				"unit": "rem"
+			}
 		},
 		"typography": {
 			"dropCap": false,
@@ -213,7 +220,8 @@
 					"slug": "x-large"
 				}
 			]
-		}
+		},
+		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
 		"blocks": {
