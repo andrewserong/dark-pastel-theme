@@ -235,6 +235,11 @@
 					"lineHeight": "var(--wp--custom--typography--line-height--normal)"
 				}
 			},
+			"core/post-template": {
+				"spacing": {
+					"blockGap": "0"
+				}
+			},
 			"core/post-title": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
