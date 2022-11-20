@@ -46,7 +46,6 @@ function darkpastel_register_block_patterns() {
 	}
 
 	$block_patterns = array(
-		'footer-default',
 		'dark-pastel-gallery-frame',
 		'dark-pastel-gallery-rounded-frame',
 		'dark-pastel-image-frame',
@@ -57,6 +56,7 @@ function darkpastel_register_block_patterns() {
 		'dark-pastel-query-frame-tiles',
 		'dark-pastel-query-tiled-title-date',
 		'dark-pastel-query-stacked-title-date',
+		'footer-default',
 		'hidden-404',
 	);
 

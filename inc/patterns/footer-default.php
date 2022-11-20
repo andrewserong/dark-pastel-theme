@@ -3,7 +3,7 @@
  * Default footer
  */
 return array(
-	'title'      => __( 'Default footer', 'twentytwentytwo' ),
+	'title'      => __( 'Default footer', 'darkpastel' ),
 	'categories' => array( 'footer' ),
 	'blockTypes' => array( 'core/template-part/footer' ),
 	'content'    => '<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"1rem","bottom":"4rem"},"blockGap":"0.5em"}},"layout":{"type":"default"}} -->

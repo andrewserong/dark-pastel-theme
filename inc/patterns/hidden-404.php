@@ -3,7 +3,7 @@
  * 404 content.
  */
 return array(
-	'title'    => __( '404 content', 'twentytwentytwo' ),
+	'title'    => __( '404 content', 'darkpastel' ),
 	'inserter' => false,
 	'content'  => '<!-- wp:group {"layout":{"type":"default"}} -->
 					<div class="wp-block-group"><!-- wp:separator {"style":{"spacing":{"margin":{"bottom":"0"}}},"backgroundColor":"primary","className":"is-style-cutout-circle-down"} -->
