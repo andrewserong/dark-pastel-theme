@@ -4,7 +4,7 @@
  */
 return array(
 	'title'         => __( 'About page', 'darkpastel' ),
-	'categories'    => array( 'darkpastel', 'page' ),
+	'categories'    => array( 'darkpastel', 'pages' ),
 	'viewportWidth' => 960,
 	'content'       => '<!-- wp:paragraph -->
 					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris venenatis dolor sit amet augue mattis, ac dignissim leo suscipit. Morbi ac lectus auctor, tristique libero a, facilisis lectus. Cras ac imperdiet felis. Fusce bibendum tortor mi, nec elementum dolor mollis vel. Proin sapien turpis, sodales in rutrum tristique, pretium sed lacus. Nam eu orci a dolor lacinia tincidunt.</p>

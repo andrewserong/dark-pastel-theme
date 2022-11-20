@@ -15,8 +15,6 @@
 function darkpastel_register_block_patterns() {
 	$block_pattern_categories = array(
 		'featured' => array( 'label' => __( 'Featured', 'darkpastel' ) ),
-		'footer'   => array( 'label' => __( 'Footers', 'darkpastel' ) ),
-		'header'   => array( 'label' => __( 'Headers', 'darkpastel' ) ),
 		'pages'   => array( 'label' => __( 'Pages', 'darkpastel' ) ),
 		'query'    => array( 'label' => __( 'Query', 'darkpastel' ) ),
 		'darkpastel' => array( 'label' => __( 'Dark Pastel', 'darkpastel' ) ),
@@ -57,7 +55,6 @@ function darkpastel_register_block_patterns() {
 		'dark-pastel-query-tiled-title-date',
 		'dark-pastel-query-stacked-title-date',
 		'dark-pastel-about-page',
-		'footer-default',
 	);
 
 	/**
