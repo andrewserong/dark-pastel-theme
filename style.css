@@ -45,6 +45,10 @@ Twenty Twenty-Two is distributed under the terms of the GNU GPL.
 	color: inherit;
 }
 
+.wp-block-image figcaption {
+	color: inherit;
+}
+
 /*
  * Dark Pastel block styles.
  */
