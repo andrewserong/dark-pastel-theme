@@ -6,14 +6,14 @@
  *
  * @package WordPress
  * @subpackage Dark_Pastel
- * @since Dark Pastel 1.0
+ * @since Dark Pastel 0.1
  */
 
 if ( ! function_exists( 'darkpastel_support' ) ) {
 	/**
 	 * Sets up theme defaults and registers support for various WordPress features.
 	 *
-	 * @since Dark Pastel 1.0
+	 * @since Dark Pastel 0.1
 	 *
 	 * @return void
 	 */
@@ -32,7 +32,7 @@ if ( ! function_exists( 'darkpastel_styles' ) ) {
 	/**
 	 * Enqueue styles.
 	 *
-	 * @since Dark Pastel 1.0
+	 * @since Dark Pastel 0.1
 	 *
 	 * @return void
 	 */

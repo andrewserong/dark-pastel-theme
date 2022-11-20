@@ -56,6 +56,7 @@ function darkpastel_register_block_patterns() {
 		'dark-pastel-query-frame-tiles',
 		'dark-pastel-query-tiled-title-date',
 		'dark-pastel-query-stacked-title-date',
+		'dark-pastel-about-page',
 		'footer-default',
 	);
 
