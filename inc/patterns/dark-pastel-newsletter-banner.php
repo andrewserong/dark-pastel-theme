@@ -10,10 +10,8 @@ return array(
 					<hr class="wp-block-separator has-text-color has-primary-color has-alpha-channel-opacity has-primary-background-color has-background is-style-cutout-circle-down" style="margin-bottom:0"/>
 					<!-- /wp:separator -->
 
-					<!-- wp:group {"style":{"spacing":{"margin":{"top":"0"}}},"backgroundColor":"primary","textColor":"background","layout":{"type":"constrained"}} -->
-					<div class="wp-block-group has-background-color has-primary-background-color has-text-color has-background" style="margin-top:0">
-
-					<!-- wp:spacer {"height":"1rem"} -->
+					<!-- wp:group {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|50","right":"3rem","bottom":"var:preset|spacing|50","left":"3rem"}}},"backgroundColor":"primary","textColor":"background","layout":{"type":"constrained"}} -->
+					<div class="wp-block-group has-background-color has-primary-background-color has-text-color has-background" style="margin-top:0;padding-top:var(--wp--preset--spacing--50);padding-right:3rem;padding-bottom:var(--wp--preset--spacing--50);padding-left:3rem"><!-- wp:spacer {"height":"1rem"} -->
 					<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
 					<!-- /wp:spacer -->
 
