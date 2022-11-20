@@ -46,6 +46,7 @@ function darkpastel_register_block_patterns() {
 	$block_patterns = array(
 		'dark-pastel-gallery-frame',
 		'dark-pastel-gallery-rounded-frame',
+		'dark-pastel-gallery-with-heading',
 		'dark-pastel-image-frame',
 		'dark-pastel-image-rounded-frame',
 		'dark-pastel-newsletter-banner',
