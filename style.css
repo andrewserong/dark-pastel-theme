@@ -124,6 +124,8 @@ Twenty Twenty-Two is distributed under the terms of the GNU GPL.
 .wp-block-separator.is-style-cutout-circle-up {
 	width: 282px !important;
 	height: 50px !important;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
 	max-width: min(50%, 50vw) !important;
 	-webkit-mask-image: url(./assets/images/cutout-circle-up.svg);
 	mask-image: url(./assets/images/cutout-circle-up.svg);
@@ -140,6 +142,8 @@ Twenty Twenty-Two is distributed under the terms of the GNU GPL.
 .wp-block-separator.is-style-cutout-circle-down {
 	width: 282px !important;
 	height: 50px !important;
+	padding-left: 0 !important;
+	padding-right: 0 !important;
 	max-width: min(50%, 50vw) !important;
 	-webkit-mask-image: url(./assets/images/cutout-circle-down.svg);
 	mask-image: url(./assets/images/cutout-circle-down.svg);
