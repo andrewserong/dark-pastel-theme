@@ -216,7 +216,7 @@
 					"slug": "large"
 				},
 				{
-					"size": "clamp(1.75rem, 3vw, 2.25rem)",
+					"size": "2rem",
 					"slug": "x-large"
 				}
 			]
