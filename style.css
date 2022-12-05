@@ -4,14 +4,14 @@ Theme URI: https://github.com/andrewserong/dark-pastel-theme
 Author: Andrew Serong
 Author URI: https://andyserong.com
 Description: A simple blogging theme inspired by dark pastel colours and old style books.
-Requires at least: 6.0
-Tested up to: 6.0
+Requires at least: 6.1
+Tested up to: 6.1
 Requires PHP: 5.6
 Version: 0.1
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Text Domain: darkpastel
-Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, threaded-comments
 
 Dark Pastel WordPress Theme, (C) 2022 Andrew Serong.
 Dark Pastel is distributed under the terms of the GNU GPL.
@@ -177,5 +177,5 @@ Twenty Twenty-Two is distributed under the terms of the GNU GPL.
 :where( .wp-block-separator.is-style-cutout-circle-up ),
 :where( .wp-block-separator.is-style-cutout-circle-down ),
 :where( .wp-block-separator.is-style-diamond ) {
-	background: black;
+	background: currentColor;
 }
