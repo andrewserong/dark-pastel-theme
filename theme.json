@@ -12,56 +12,6 @@
 	"settings": {
 		"appearanceTools": true,
 		"color": {
-			"duotone": [
-				{
-					"colors": [
-						"#000000",
-						"#ffffff"
-					],
-					"name": "Foreground and background",
-					"slug": "foreground-and-background"
-				},
-				{
-					"colors": [
-						"#000000",
-						"#ffe2c7"
-					],
-					"name": "Foreground and secondary",
-					"slug": "foreground-and-secondary"
-				},
-				{
-					"colors": [
-						"#000000",
-						"#f6f6f6"
-					],
-					"name": "Foreground and tertiary",
-					"slug": "foreground-and-tertiary"
-				},
-				{
-					"colors": [
-						"#1a4548",
-						"#ffffff"
-					],
-					"name": "Primary and background",
-					"slug": "primary-and-background"
-				},
-				{
-					"colors": [
-						"#1a4548",
-						"#ffe2c7"
-					],
-					"name": "Primary and secondary",
-					"slug": "primary-and-secondary"
-				},
-				{
-					"colors": [
-						"#1a4548",
-						"#f6f6f6"
-					],
-					"name": "Primary and tertiary",
-					"slug": "primary-and-tertiary"
-				}
-			],
 			"palette": [
 				{
 					"color": "#000000",
