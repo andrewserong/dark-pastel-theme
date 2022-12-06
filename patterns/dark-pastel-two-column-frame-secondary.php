@@ -17,7 +17,7 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><?php echo __( 'A heading', 'darkpastel' ); ?></h2>
+<h2 class="has-text-align-center"><?php echo __( 'A brief history', 'darkpastel' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns -->
