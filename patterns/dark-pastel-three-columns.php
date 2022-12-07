@@ -18,43 +18,43 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci. </p>
+<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.</p>
+<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.</p>
+<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci. </p>
+<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.</p>
+<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.</p>
+<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci. </p>
+<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.</p>
+<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.</p>
+<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'darkpastel' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

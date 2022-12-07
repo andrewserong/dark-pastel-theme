@@ -7,7 +7,7 @@
 ?>
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center">Recent artwork</h2>
+<h2 class="has-text-align-center"><?php echo __( 'Recent artwork' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
