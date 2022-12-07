@@ -8,12 +8,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-A simple blogging theme inspired by dark pastel colours and old style books.
+A simple blogging theme inspired by dark pastel colours and old style books. Includes nine separator block styles for a decorative touch.
 
 == Changelog ==
 
 = 0.1 =
-* Released: November 20, 2022
+* Released: December 7, 2022
 
 == Copyright ==
 
