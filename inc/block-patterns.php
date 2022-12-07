@@ -1,12 +1,6 @@
 <?php
 /**
- * Dark Pastel: Block Patterns
- *
- * @since Dark Pastel 0.1
- */
-
-/**
- * Registers block patterns and categories.
+ * Registers block pattern categories.
  *
  * @since Dark Pastel 0.1
  *

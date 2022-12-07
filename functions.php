@@ -55,8 +55,8 @@ if ( ! function_exists( 'darkpastel_styles' ) ) {
 
 add_action( 'wp_enqueue_scripts', 'darkpastel_styles' );
 
-// Add block patterns
+// Add block styles.
 require_once get_template_directory() . '/inc/block-styles.php';
 
-// Add block patterns
+// Add block patterns.
 require_once get_template_directory() . '/inc/block-patterns.php';

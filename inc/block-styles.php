@@ -1,9 +1,8 @@
 <?php
-
 /**
  * Register theme specific block styles.
  *
- * @since Dark Pastel 1.0
+ * @since Dark Pastel 0.1
  *
  * @return void
  */
