@@ -23,6 +23,9 @@ if ( ! function_exists( 'darkpastel_support' ) ) {
 
 		// Enqueue editor styles.
 		add_editor_style( 'style.css' );
+
+		// Make theme available for translation.
+		load_theme_textdomain( 'darkpastel', get_template_directory() . '/languages' );
 	}
 }
 
