@@ -7,4 +7,3 @@ rsync -avz --exclude dark-pastel --exclude-from './dotorg-exclude.txt' ./ dark-p
 rm -rf dark-pastel/dark-pastel
 zip -r -X dark-pastel.zip dark-pastel
 rm -rf dark-pastel
-git restore ./

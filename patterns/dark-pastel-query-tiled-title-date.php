@@ -13,7 +13,7 @@
 
 <!-- wp:query {"queryId":0,"query":{"perPage":8,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"displayLayout":{"type":"flex","columns":2}} -->
 <div class="wp-block-query"><!-- wp:post-template {"align":"center"} -->
-<!-- wp:post-title {"textAlign":"center","level":3,"isLink":true,"style":{"spacing":{"margin":{"bottom":"0","top":"var:preset|spacing|20"}}},"fontSize":"medium"} /-->
+<!-- wp:post-title {"textAlign":"center","level":3,"isLink":true,"style":{"spacing":{"margin":{"bottom":"0","top":"var:preset|spacing|20"}},"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"medium"} /-->
 
 <!-- wp:post-date {"textAlign":"center","style":{"spacing":{"margin":{"top":"0"}}},"fontSize":"small"} /-->
 <!-- /wp:post-template -->
