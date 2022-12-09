@@ -6,12 +6,12 @@
  *
  * @return void
  */
-function darkpastel_register_block_styles() {
+function dark_pastel_register_block_styles() {
 	register_block_style(
 		'core/separator',
 		array(
 			'name'         => 'narrow-ornament',
-			'label'        => __( 'Narrow Ornament', 'darkpastel' ),
+			'label'        => __( 'Narrow Ornament', 'dark-pastel' ),
 		)
 	);
 
@@ -19,7 +19,7 @@ function darkpastel_register_block_styles() {
 		'core/separator',
 		array(
 			'name'         => 'double-ornament',
-			'label'        => __( 'Double Ornament', 'darkpastel' ),
+			'label'        => __( 'Double Ornament', 'dark-pastel' ),
 		)
 	);
 
@@ -27,7 +27,7 @@ function darkpastel_register_block_styles() {
 		'core/separator',
 		array(
 			'name'         => 'double-ornament-inverted',
-			'label'        => __( 'Double Ornament (inverted)', 'darkpastel' ),
+			'label'        => __( 'Double Ornament (inverted)', 'dark-pastel' ),
 		)
 	);
 
@@ -35,7 +35,7 @@ function darkpastel_register_block_styles() {
 		'core/separator',
 		array(
 			'name'         => 'ornament-left',
-			'label'        => __( 'Ornament (left)', 'darkpastel' ),
+			'label'        => __( 'Ornament (left)', 'dark-pastel' ),
 		)
 	);
 
@@ -43,7 +43,7 @@ function darkpastel_register_block_styles() {
 		'core/separator',
 		array(
 			'name'         => 'ornament-right',
-			'label'        => __( 'Ornament (right)', 'darkpastel' ),
+			'label'        => __( 'Ornament (right)', 'dark-pastel' ),
 		)
 	);
 
@@ -51,7 +51,7 @@ function darkpastel_register_block_styles() {
 		'core/separator',
 		array(
 			'name'         => 'star-ornament',
-			'label'        => __( 'Star Ornament', 'darkpastel' ),
+			'label'        => __( 'Star Ornament', 'dark-pastel' ),
 		)
 	);
 
@@ -59,7 +59,7 @@ function darkpastel_register_block_styles() {
 		'core/separator',
 		array(
 			'name'         => 'cutout-circle-up',
-			'label'        => __( 'Cutout circle (up)', 'darkpastel' ),
+			'label'        => __( 'Cutout circle (up)', 'dark-pastel' ),
 		)
 	);
 
@@ -67,7 +67,7 @@ function darkpastel_register_block_styles() {
 		'core/separator',
 		array(
 			'name'         => 'cutout-circle-down',
-			'label'        => __( 'Cutout circle (down)', 'darkpastel' ),
+			'label'        => __( 'Cutout circle (down)', 'dark-pastel' ),
 		)
 	);
 
@@ -75,9 +75,9 @@ function darkpastel_register_block_styles() {
 		'core/separator',
 		array(
 			'name'         => 'diamond',
-			'label'        => __( 'Diamond', 'darkpastel' ),
+			'label'        => __( 'Diamond', 'dark-pastel' ),
 		)
 	);
 }
 
-add_action( 'init', 'darkpastel_register_block_styles' );
+add_action( 'init', 'dark_pastel_register_block_styles' );

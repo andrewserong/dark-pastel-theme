@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Tiled title and date query loop
- * Slug: darkpastel/query-tiled-title-date
- * Categories: darkpastel, query
+ * Slug: dark-pastel/query-tiled-title-date
+ * Categories: dark-pastel, query
  */
 ?>
 

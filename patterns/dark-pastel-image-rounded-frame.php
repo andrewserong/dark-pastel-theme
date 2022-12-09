@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Image with rounded frame
- * Slug: darkpastel/image-rounded-frame
- * Categories: darkpastel
+ * Slug: dark-pastel/image-rounded-frame
+ * Categories: dark-pastel
  */
 ?>
 

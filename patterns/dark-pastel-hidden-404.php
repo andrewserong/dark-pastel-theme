@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Hidden 404
- * Slug: darkpastel/hidden-404
+ * Slug: dark-pastel/hidden-404
  * Inserter: no
  */
 ?>
@@ -17,17 +17,17 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><?php echo __( 'Alas, this is not a real page.', 'darkpastel' ); ?></h2>
+<h2 class="has-text-align-center"><?php echo __( 'Alas, this is not a real page.', 'dark-pastel' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"var:preset|spacing|30"}}}} -->
-<p class="has-text-align-center" style="margin-top:var(--wp--preset--spacing--30)"><?php echo __( 'Perhaps try a search?', 'darkpastel' ); ?></p>
+<p class="has-text-align-center" style="margin-top:var(--wp--preset--spacing--30)"><?php echo __( 'Perhaps try a search?', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:search {"label":"Search","showLabel":false,"width":100,"widthUnit":"%","buttonText":"Search","buttonUseIcon":true,"align":"center","style":{"border":{"width":"0px","style":"none","radius":"0px"}},"backgroundColor":"background","textColor":"primary"} /-->
 
 <!-- wp:paragraph {"align":"center"} -->
-<p class="has-text-align-center"><?php echo __( '404', 'darkpastel' ); ?></p>
+<p class="has-text-align-center"><?php echo __( '404', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:separator {"backgroundColor":"background","className":"is-style-narrow-ornament"} -->

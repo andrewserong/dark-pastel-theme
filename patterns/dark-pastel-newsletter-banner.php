@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Newsletter banner
- * Slug: darkpastel/newsletter-banner
- * Categories: darkpastel
+ * Slug: dark-pastel/newsletter-banner
+ * Categories: dark-pastel
  */
 ?>
 
@@ -17,16 +17,16 @@
 <!-- /wp:spacer -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><?php echo __( 'Sign up to our newsletter', 'darkpastel' ); ?></h2>
+<h2 class="has-text-align-center"><?php echo __( 'Sign up to our newsletter', 'dark-pastel' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"top":"0"}}}} -->
-<p class="has-text-align-center" style="margin-top:0"><?php echo __( 'Click below to sign up', 'darkpastel' ); ?></p>
+<p class="has-text-align-center" style="margin-top:0"><?php echo __( 'Click below to sign up', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"background","textColor":"primary"} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-primary-color has-background-background-color has-text-color has-background wp-element-button"><?php echo __( 'Sign up', 'darkpastel' ); ?></a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-primary-color has-background-background-color has-text-color has-background wp-element-button"><?php echo __( 'Sign up', 'dark-pastel' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons -->
 

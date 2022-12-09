@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Image frame
- * Slug: darkpastel/image-frame
- * Categories: darkpastel
+ * Slug: dark-pastel/image-frame
+ * Categories: dark-pastel
  */
 ?>
 

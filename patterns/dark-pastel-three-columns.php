@@ -1,14 +1,14 @@
 <?php
 /**
  * Title: Three columns
- * Slug: darkpastel/three-columns
- * Categories: darkpastel
+ * Slug: dark-pastel/three-columns
+ * Categories: dark-pastel
  */
 ?>
 
 <!-- wp:group {"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><?php echo __( 'A heading', 'darkpastel' ); ?></h2>
+<h2 class="has-text-align-center"><?php echo __( 'A heading', 'dark-pastel' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"backgroundColor":"primary","className":"is-style-ornament-left"} -->
@@ -18,43 +18,43 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

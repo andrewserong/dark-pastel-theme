@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Hidden Search
- * Slug: darkpastel/hidden-search
+ * Slug: dark-pastel/hidden-search
  * Inserter: no
  */
 ?>
@@ -30,7 +30,7 @@
 
 <!-- wp:group {"style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="margin-top:0;padding-top:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><?php echo __( 'Search results', 'darkpastel' ); ?></h2>
+<h2 class="has-text-align-center"><?php echo __( 'Search results', 'dark-pastel' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:separator {"backgroundColor":"primary","className":"is-style-double-ornament"} -->
@@ -48,7 +48,7 @@
 
 <!-- wp:query-no-results -->
 <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when a query returns no results."} -->
-<p class="has-text-align-center"><?php echo __( 'Nothing to be found, perhaps try another search?', 'darkpastel' ); ?></p>
+<p class="has-text-align-center"><?php echo __( 'Nothing to be found, perhaps try another search?', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results -->
 

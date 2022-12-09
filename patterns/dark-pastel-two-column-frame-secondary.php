@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Two-column frame secondary color
- * Slug: darkpastel/two-column-frame-secondary
- * Categories: darkpastel
+ * Slug: dark-pastel/two-column-frame-secondary
+ * Categories: dark-pastel
  */
 ?>
 
@@ -17,35 +17,35 @@
 <!-- /wp:separator -->
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><?php echo __( 'A brief history', 'darkpastel' ); ?></h2>
+<h2 class="has-text-align-center"><?php echo __( 'A brief history', 'dark-pastel' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci. Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci. Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Nullam fringilla in mauris non euismod. Donec posuere turpis magna, at luctus risus porta varius. Sed diam leo, congue eget sapien sit amet, convallis luctus turpis.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Nullam fringilla in mauris non euismod. Donec posuere turpis magna, at luctus risus porta varius. Sed diam leo, congue eget sapien sit amet, convallis luctus turpis.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph -->
-<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci. Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec urna fringilla, tristique turpis at, varius felis. Proin eu auctor orci. Vivamus rutrum tempor ligula sed suscipit. Donec sed volutpat massa, id rhoncus sem. Integer et eleifend leo.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Ut accumsan ex nulla. Mauris sagittis massa at arcu lobortis, molestie ullamcorper tortor suscipit.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><?php echo __( 'Nullam fringilla in mauris non euismod. Donec posuere turpis magna, at luctus risus porta varius. Sed diam leo, congue eget sapien sit amet, convallis luctus turpis.', 'darkpastel' ); ?></p>
+<p><?php echo __( 'Nullam fringilla in mauris non euismod. Donec posuere turpis magna, at luctus risus porta varius. Sed diam leo, congue eget sapien sit amet, convallis luctus turpis.', 'dark-pastel' ); ?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->

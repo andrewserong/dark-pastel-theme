@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Frame and tiled query loop
- * Slug: darkpastel/query-frame-tiles
- * Categories: darkpastel, query
+ * Slug: dark-pastel/query-frame-tiles
+ * Categories: dark-pastel, query
  */
 ?>
 

@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Gallery frame
- * Slug: darkpastel/gallery-frame
- * Categories: darkpastel
+ * Slug: dark-pastel/gallery-frame
+ * Categories: dark-pastel
  */
 ?>
 
@@ -27,7 +27,7 @@
 
 <!-- wp:image {"sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/img-placeholder.png" alt=""/></figure>
-<!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption"><?php echo __( 'This is a gallery caption', 'darkpastel' ); ?></figcaption></figure>
+<!-- /wp:image --><figcaption class="blocks-gallery-caption wp-element-caption"><?php echo __( 'This is a gallery caption', 'dark-pastel' ); ?></figcaption></figure>
 <!-- /wp:gallery -->
 
 <!-- wp:separator {"backgroundColor":"background","className":"is-style-double-ornament-inverted"} -->

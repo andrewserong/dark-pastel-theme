@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Stacked title and date query loop
- * Slug: darkpastel/query-stacked-title-date
- * Categories: darkpastel, query
+ * Slug: dark-pastel/query-stacked-title-date
+ * Categories: dark-pastel, query
  */
 ?>
 

@@ -1,13 +1,13 @@
 <?php
 /**
  * Title: Gallery with heading
- * Slug: darkpastel/gallery-with-heading
- * Categories: darkpastel
+ * Slug: dark-pastel/gallery-with-heading
+ * Categories: dark-pastel
  */
 ?>
 
 <!-- wp:heading {"textAlign":"center"} -->
-<h2 class="has-text-align-center"><?php echo __( 'Recent artwork' ); ?></h2>
+<h2 class="has-text-align-center"><?php echo __( 'Recent artwork', 'dark-pastel' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
