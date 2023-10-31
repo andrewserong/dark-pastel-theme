@@ -189,3 +189,11 @@ input[type="submit"],
 :where( .wp-block-separator.is-style-diamond ) {
 	background: currentColor;
 }
+
+/* TODO: Make the background color more compatible with other kinds of site-wide background colors */
+code {
+    background-color: #f0f0f0;
+	padding: 5px 2px;
+    font-size: 0.9em;
+    border-radius: 5px;
+}
