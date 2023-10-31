@@ -211,6 +211,11 @@
 					"fontWeight": "normal"
 				}
 			},
+			"caption": {
+				"typography": {
+					"fontSize": "var(--wp--preset--font-size--small)"
+				}
+			},
 			"h1": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",

@@ -14,13 +14,11 @@ if ( ! function_exists( 'dark_pastel_support' ) ) {
 	 * Sets up theme defaults and registers support for various WordPress features.
 	 *
 	 * @since Dark Pastel 0.1
+	 * @since Dark Pastel 0.2 Removed 'wp-block-styles' theme support as it conflicts with layout styles.
 	 *
 	 * @return void
 	 */
 	function dark_pastel_support() {
-		// Add support for block styles.
-		add_theme_support( 'wp-block-styles' );
-
 		// Enqueue editor styles.
 		add_editor_style( 'style.css' );
 

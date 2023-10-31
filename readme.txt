@@ -1,7 +1,7 @@
 === Dark Pastel ===
 Contributors: andrewserong
 Requires at least: 6.1
-Tested up to: 6.1
+Tested up to: 6.3
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,6 +11,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 A simple blogging theme inspired by dark pastel colours and old style books. Includes nine separator block styles for a decorative touch.
 
 == Changelog ==
+
+= 0.2 =
+* Released: October 31, 2023
+
+- Removed `wp-block-styles` theme support as its opinionated styles conflict with layout styles. As this is a block theme,
+styles are more consistent without this particular opt-in.
+- Added a caption style to `theme.json` to set captions to use the small font-size.
 
 = 0.1 =
 * Released: December 9, 2022
