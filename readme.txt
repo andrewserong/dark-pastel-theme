@@ -12,6 +12,14 @@ A simple blogging theme inspired by dark pastel colours and old style books. Inc
 
 == Changelog ==
 
+= 0.3 =
+* Released: June 1, 2026
+
+- Set the bold heading weight on the `heading` element in `theme.json` rather than repeating it on each individual heading level.
+- Added more breathing room (2rem) around standalone image and gallery blocks. A 2rem step was added to the spacing scale so the value is a reusable preset.
+- Raised the minimum requirements to WordPress 6.9 and PHP 7.4, and updated "Tested up to" to 7.0.
+- Migrated `theme.json` to version 3, keeping the theme's own font-size and spacing presets authoritative via `defaultFontSizes` and `defaultSpacingSizes`.
+
 = 0.2 =
 * Released: October 31, 2023
 
