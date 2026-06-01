@@ -54,11 +54,12 @@
 			"wideSize": "1024px"
 		},
 		"spacing": {
+			"defaultSpacingSizes": false,
 			"spacingScale": {
 				"increment": 0.25,
 				"mediumStep": 1,
 				"operator": "+",
-				"steps": 7,
+				"steps": 8,
 				"unit": "rem"
 			},
 			"units": [
@@ -71,6 +72,7 @@
 			]
 		},
 		"typography": {
+			"defaultFontSizes": false,
 			"dropCap": false,
 			"fontFamilies": [
 				{
@@ -308,6 +310,6 @@
 			"title": "Footer (Dark)"
 		}
 	],
-	"version": 2,
-	"$schema": "https://schemas.wp.org/wp/6.1/theme.json"
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.9/theme.json"
 }
