@@ -128,6 +128,7 @@
 		"useRootPaddingAwareAlignments": true
 	},
 	"styles": {
+		"css": "/* Standalone images and galleries get more breathing room (2rem) than the default 1rem block gap; a Block Spacing value set on a parent Group still wins, since per-container gaps are emitted later in the cascade. */ :root :where(.is-layout-flow, .is-layout-constrained) > :where(figure.wp-block-image, figure.wp-block-gallery){margin-block:var(--wp--preset--spacing--90)} :root :where(.is-layout-flow, .is-layout-constrained) > :where(figure.wp-block-image, figure.wp-block-gallery):first-child{margin-block-start:0} :root :where(.is-layout-flow, .is-layout-constrained) > :where(figure.wp-block-image, figure.wp-block-gallery):last-child{margin-block-end:0}",
 		"blocks": {
 			"core/button": {
 				"border": {

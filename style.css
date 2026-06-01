@@ -60,25 +60,6 @@ input[type="submit"],
 }
 
 /*
- * Give standalone images and galleries more breathing room (2rem) than the
- * default 1rem block gap. Scoped to direct children of flow/constrained
- * layouts so images nested inside galleries, columns, etc. keep their own
- * spacing. First/last-child margins are reset so a sole image inside a padded
- * group frame doesn't gain extra space.
- */
-:root :where(.is-layout-flow, .is-layout-constrained) > :where(figure.wp-block-image, figure.wp-block-gallery) {
-	margin-block: var(--wp--preset--spacing--90);
-}
-
-:root :where(.is-layout-flow, .is-layout-constrained) > :where(figure.wp-block-image, figure.wp-block-gallery):first-child {
-	margin-block-start: 0;
-}
-
-:root :where(.is-layout-flow, .is-layout-constrained) > :where(figure.wp-block-image, figure.wp-block-gallery):last-child {
-	margin-block-end: 0;
-}
-
-/*
  * Dark Pastel block styles.
  */
 
