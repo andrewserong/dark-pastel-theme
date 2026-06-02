@@ -59,7 +59,7 @@
 				"increment": 0.25,
 				"mediumStep": 1,
 				"operator": "+",
-				"steps": 8,
+				"steps": 7,
 				"unit": "rem"
 			},
 			"units": [
@@ -146,16 +146,16 @@
 			"core/gallery": {
 				"spacing": {
 					"margin": {
-						"bottom": "var:preset|spacing|90",
-						"top":  "var:preset|spacing|90"
+						"bottom": "2rem",
+						"top":  "2rem"
 					}
 				}
 			},
 			"core/image": {
 				"spacing": {
 					"margin": {
-						"bottom": "var:preset|spacing|90",
-						"top":  "var:preset|spacing|90"
+						"bottom": "2rem",
+						"top":  "2rem"
 					}
 				}
 			},
