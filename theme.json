@@ -54,6 +54,7 @@
 			"wideSize": "1024px"
 		},
 		"spacing": {
+			"defaultSpacingSizes": false,
 			"spacingScale": {
 				"increment": 0.25,
 				"mediumStep": 1,
@@ -71,6 +72,7 @@
 			]
 		},
 		"typography": {
+			"defaultFontSizes": false,
 			"dropCap": false,
 			"fontFamilies": [
 				{
@@ -139,6 +141,22 @@
 					"fontFamily": "var(--wp--preset--font-family--lora)",
 					"fontSize": "var(--wp--preset--font-size--medium)",
 					"fontWeight": "normal"
+				}
+			},
+			"core/gallery": {
+				"spacing": {
+					"margin": {
+						"bottom": "2rem",
+						"top":  "2rem"
+					}
+				}
+			},
+			"core/image": {
+				"spacing": {
+					"margin": {
+						"bottom": "2rem",
+						"top":  "2rem"
+					}
 				}
 			},
 			"core/paragraph": {
@@ -216,11 +234,15 @@
 					"fontSize": "var(--wp--preset--font-size--small)"
 				}
 			},
+			"heading": {
+				"typography": {
+					"fontWeight": "500"
+				}
+			},
 			"h1": {
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
 					"fontSize": "var(--wp--preset--font-size--x-large)",
-					"fontWeight": "500",
 					"lineHeight": "var(--wp--custom--typography--line-height--tiny)"
 				}
 			},
@@ -228,7 +250,6 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
 					"fontSize": "var(--wp--preset--font-size--x-large)",
-					"fontWeight": "500",
 					"lineHeight": "var(--wp--custom--typography--line-height--small)"
 				}
 			},
@@ -236,7 +257,6 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
 					"fontSize": "var(--wp--preset--font-size--x-large)",
-					"fontWeight": "500",
 					"lineHeight": "var(--wp--custom--typography--line-height--tiny)"
 				}
 			},
@@ -244,7 +264,6 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
 					"fontSize": "var(--wp--preset--font-size--x-large)",
-					"fontWeight": "500",
 					"lineHeight": "var(--wp--custom--typography--line-height--tiny)"
 				}
 			},
@@ -252,7 +271,6 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
 					"fontSize": "var(--wp--preset--font-size--medium)",
-					"fontWeight": "500",
 					"lineHeight": "var(--wp--custom--typography--line-height--normal)",
 					"textTransform": "uppercase"
 				}
@@ -261,7 +279,6 @@
 				"typography": {
 					"fontFamily": "var(--wp--preset--font-family--lora)",
 					"fontSize": "var(--wp--preset--font-size--medium)",
-					"fontWeight": "500",
 					"lineHeight": "var(--wp--custom--typography--line-height--normal)",
 					"textTransform": "uppercase"
 				}
@@ -309,6 +326,6 @@
 			"title": "Footer (Dark)"
 		}
 	],
-	"version": 2,
-	"$schema": "https://schemas.wp.org/wp/6.1/theme.json"
+	"version": 3,
+	"$schema": "https://schemas.wp.org/wp/6.9/theme.json"
 }
